@@ -71,6 +71,9 @@ Tools that test, score and validate whether a store is ready for AI shopping age
 ## AI & MCP Servers
 
 Cross-platform MCP servers and AI tooling that connect commerce data and actions to LLM agents. 📚 [Further reading](articles/ai-and-mcp.md).
+- [nyx-builds/agent-budget](https://github.com/nyx-builds/agent-budget) - Budget enforcement MCP server for AI agents. Progressive spend throttling, burn-rate tracking, LLM cost guardrails, and session cost importer.
+- [nyx-builds/agent-invoice](https://github.com/nyx-builds/agent-invoice) - Usage-based billing MCP server for AI agents. Client management, invoice generation, usage metering, cost analytics, and profit analysis.
+- [nyx-builds/agent-ledger](https://github.com/nyx-builds/agent-ledger) - Double-entry accounting MCP server for AI agents. Chart of accounts, journal entries, financial statements, and REST API.
 
 - [PayPal Agent Toolkit](https://github.com/paypal/agent-toolkit) - Official PayPal toolkit for integrating commerce actions into AI agents.
 - [Stripe AI Toolkit](https://github.com/stripe/ai) - Official Stripe tooling and MCP server for building AI-powered payment agents.
